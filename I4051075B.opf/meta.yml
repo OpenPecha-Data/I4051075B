@@ -1,0 +1,38 @@
+id: I4051075B
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:26:59.562968'
+last_modified: '2022-06-19T04:26:59.562981'
+parser: null
+source_metadata:
+  title: Hagiographies of the Lineage Masters in the Lam bras gzhung bshad pod nag
+    Transmission; Lamdre Lobshe, vol. ma, title no. 1
+  author: བླ་མ་དམ་པ་བསོད་ནམས་རྒྱལ་མཚན།
+  description: 'Digital version 2.1 {Tibetan}; master xml (completed: 2013-09-09);
+    unrevised, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), ཀུན་དགའ་རྡོ་རྗེ། (Kathmandu) (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:བློ་གསལ་དོན་གྲུབ། (ld), Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/585
+  bases:
+    fca6:
+      title: Hagiographies of the Lineage Masters in the Lam bras gzhung bshad pod
+        nag Transmission; Lamdre Lobshe, vol. ma, title no. 1
+      order: 1
+      base_file: fca6.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
